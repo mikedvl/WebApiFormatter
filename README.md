@@ -2,7 +2,7 @@
 
 An ASP.NET Core Web API that provides services for string and number formatting, along with validation utilities.
 
-✅ Fully covered with xUnit unit tests.
+Covered with xUnit unit tests.
 
 ---
 
@@ -22,10 +22,10 @@ WebApiUnitTests/            # Unit tests for API and services
 
 ## Features
 
-- 🔹 Format numbers and strings via a RESTful API.
-- 🔹 Validate input using helper utilities.
-- 🔹 Modular design with clear separation of concerns.
-- 🔹 Fully unit-tested with xUnit.
+- Format numbers and strings via a RESTful API.
+- Validate input using helper utilities.
+- Modular design with clear separation of concerns.
+- Fully unit-tested with xUnit.
 
 ---
 
