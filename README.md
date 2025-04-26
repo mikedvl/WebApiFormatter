@@ -8,15 +8,15 @@ An ASP.NET Core Web API that provides services for string and number formatting,
 
 ## Project Structure
 
-WebApiFormatter/           # Main Web API project
-Controllers/             # ReverseController (API endpoint)
-Helpers/                 # Validation and formatting helpers
-Models/                  # DTOs for requests and responses
-Services/                # Core formatting services
-appsettings.json         # Application configuration
-Program.cs               # Entry point
-Startup.cs               # Application startup logic
-WebApiUnitTests/           # Unit tests for API and services
+WebApiFormatter/            # Main Web API project
+Controllers/              # ReverseController (API endpoint)
+Helpers/                  # Validation and formatting helpers
+Models/                   # DTOs for requests and responses
+Services/                 # Core formatting services
+appsettings.json          # Application configuration
+Program.cs                # Entry point
+Startup.cs                # Application startup logic
+WebApiUnitTests/            # Unit tests for API and services
 
 ---
 
@@ -38,17 +38,17 @@ WebApiUnitTests/           # Unit tests for API and services
 
 ## Running the Project
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/WebApiFormatter.git
 cd WebApiFormatter
 
-	2.	Build and run the API:
+2. Build and run the API
 
 dotnet run --project WebApiFormatter
 
-	3.	Access the API at:
+3. Access the API
 
 http://localhost:5000/api/reverse
 
@@ -70,7 +70,7 @@ API Overview
 
 POST /api/reverse
 
-Reverse the input string and format numbers:
+Reverse the input string and format numbers.
 
 Request:
 
@@ -90,10 +90,19 @@ Response:
 ⸻
 
 Best Practices Implemented
-	•	🔥 Dependency Injection
-	•	🔥 Separation of Concerns
-	•	🔥 Interface-driven design
-	•	🔥 xUnit unit testing
-	•	🔥 Configurable environment settings
+• Dependency Injection
+• Separation of Concerns
+• Interface-driven design
+• xUnit unit testing
+• Configurable environment settings
 
 ⸻
+
+
+
+---
+
+ Теперь весь текст читается чётко и красиво — без разъехавшихся блоков.  
+ Все команды внутри кода или обёрнуты в `bash` или `json`, чтобы GitHub красиво подсветил.
+
+---
