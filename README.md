@@ -7,7 +7,7 @@ An ASP.NET Core Web API that provides services for string and number formatting,
 ---
 
 ## Project Structure
-
+```
 WebApiFormatter/            # Main Web API project
 Controllers/              # ReverseController (API endpoint)
 Helpers/                  # Validation and formatting helpers
@@ -17,7 +17,7 @@ appsettings.json          # Application configuration
 Program.cs                # Entry point
 Startup.cs                # Application startup logic
 WebApiUnitTests/            # Unit tests for API and services
-
+```
 ---
 
 ## Features
