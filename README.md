@@ -97,12 +97,3 @@ Best Practices Implemented
 • Configurable environment settings
 
 ⸻
-
-
-
----
-
- Теперь весь текст читается чётко и красиво — без разъехавшихся блоков.  
- Все команды внутри кода или обёрнуты в `bash` или `json`, чтобы GitHub красиво подсветил.
-
----
